@@ -30,8 +30,6 @@ Brown Eyed Handsome Man,Buddy Holly,adult standards,1963,95,97,59,-7,9,86,125,4,
 Poetry In Motion,Johnny Tillotson,adult standards,2011,135,71,49,-7,10,90,154,40,3,41,False
 To The Aisle,The Five Satins,brill building pop,2008,195,27,32,-10,10,55,166,91,4,41,False
 Tulips From Amsterdam,Max Bygraves,british comedy,2000,93,45,56,-7,15,70,135,49,3,41,False
-If I Give My Heart To You,The Teddy Bears,,2011,113,29,49,-10,12,29,118,86,3,40,False
-The Lady Is A Tramp,Mel Torme & the Mel-Tones,,2016,138,60,41,-8,41,54,170,81,6,40,False
 Let's Fall in Love,James Darren,adult standards,2014,128,29,51,-11,8,58,128,78,4,39,False
 Runaround,The Fleetwoods,adult standards,2011,79,14,37,-15,12,36,154,95,4,39,False
 A Thousand Miles Away,The Temprees,classic soul,1984,75,26,48,-15,28,30,199,39,3,39,False
@@ -41,7 +39,6 @@ I Love My Girl,The Hilltoppers,deep adult standards,2011,123,45,74,-10,10,96,106
 Eddie My Love,The Chordettes,adult standards,2012,108,14,57,-12,13,39,135,82,3,38,False
 Let There Be You,The Five Keys,doo-wop,1989,92,11,36,-15,20,23,154,97,3,38,False
 Raindrops,Roy Orbison,adult standards,1961,103,44,59,-10,5,90,113,52,3,38,False
-Unchained Melody,The Teddy Bears,,2011,114,44,53,-8,13,47,139,49,3,37,False
 It All Depends on You,Craig Douglas,brill building pop,1993,147,32,53,-10,17,73,127,87,7,37,False
 A Tear Fell,Teresa Brewer,adult standards,1995,86,16,42,-16,18,46,156,92,5,37,False
 Ain't Got No Home,"Clarence ""Frogman"" Henry",louisiana blues,2013,84,33,66,-16,9,53,143,69,9,36,False
@@ -49,28 +46,19 @@ Carolina in the Morning,Craig Douglas,brill building pop,2011,81,20,35,-13,9,43,
 Gigi,Billy Eckstine,adult standards,1958,81,12,21,-17,12,19,155,93,3,35,False
 What Do You Want,Adam Faith,brill building pop,1989,147,37,55,-9,24,85,98,84,4,35,False
 You Belong to My Heart,Timi Yuro,adult standards,2013,108,39,46,-10,16,50,126,82,3,35,False
-Someone Elses Roses,Joan Regan,,2019,100,14,29,-10,15,32,143,89,3,34,False
 More,Jimmy Young,deep adult standards,2007,126,31,36,-11,25,29,146,77,3,34,False
 Do You Wanna Dance,Bobby Freeman,doo-wop,2013,167,50,55,-15,15,96,149,89,6,33,False
 My September Love,David Whitfield,deep adult standards,2000,137,21,24,-17,20,14,166,65,3,33,False
 Seven Days,Anne Shelton,british dance band,2016,90,27,53,-8,27,72,149,89,3,33,False
 Marianne,The Hilltoppers,deep adult standards,2019,106,55,71,-8,19,82,137,73,4,33,False
 Sea Of Love,Marty Wilde,brill building pop,2010,84,39,45,-9,13,39,144,91,3,32,False
-No Other Love,Bob Sharples & His Music,,2014,97,31,37,-10,27,10,171,69,3,31,False
-Hot Diggity,Stargazers,,2001,109,64,88,-9,60,96,134,61,11,31,False
 Kisses Sweeter Than Wine,Frankie Vaughan,merseybeat,2010,87,46,57,-9,18,86,138,61,5,31,False
 Are You Really Mine,Jimmy Rodgers,yodeling,2014,102,19,69,-17,13,56,148,77,3,31,False
 Butterfingers,Tommy Steele,classic uk pop,2000,75,14,52,-14,14,26,135,70,3,30,False
 Come Softly To Me,Frankie Vaughan,merseybeat,2010,131,34,57,-14,35,89,142,82,3,30,False
 Ninety-Nine Ways,Tab Hunter,deep adult standards,2000,125,33,59,-10,9,68,108,87,3,30,False
 Only Sixteen - 2004 Remaster,Craig Douglas,brill building pop,2008,114,55,65,-10,36,59,136,63,4,29,False
-Little Things Means A Lot,Jayne Mansfield,,2008,109,29,70,-15,16,63,172,36,4,29,False
-Drinks On The House,Green Martini Keys,,2016,97,16,57,-16,11,15,181,100,5,28,False
-Pachuko Hop,Ike Carpenter Orchestra,,2006,83,53,48,-9,34,80,135,59,3,28,False
 Collette,Billy Fury,adult standards,1982,155,44,55,-10,10,73,112,82,4,27,False
-Happy Days And Lonely Nights,Suzi Miller And Johnson Brothers,,2012,142,38,65,-8,13,69,146,43,3,27,False
-Stairway Of Love,Terry Dene,,2015,93,62,62,-7,25,86,120,55,4,27,False
-I've Waited So Long,Anthony Newley,,2012,137,36,27,-15,25,28,165,64,4,26,False
 Held for Questioning,Rusty Draper,deep adult standards,1953,109,65,70,-2,14,85,146,79,3,26,False
 Here Comes The Sun - Remastered 2009,The Beatles,british invasion,1969,129,54,56,-10,18,39,186,3,3,82,True
 Come Together - Remastered 2009,The Beatles,british invasion,1969,165,38,53,-12,9,19,260,3,4,79,False
@@ -80,7 +68,6 @@ Can't Help Falling in Love,Elvis Presley,adult standards,1961,100,29,40,-14,11,3
 Fly Me To The Moon (In Other Words),Frank Sinatra,adult standards,1962,119,26,67,-14,6,37,147,45,5,76,False
 I Want To Hold Your Hand - Remastered 2015,The Beatles,british invasion,2000,131,72,49,-6,31,87,146,39,5,74,False
 White Room,Cream,album rock,1968,110,58,55,-13,4,46,298,19,3,73,False
-Put Your Head On My Shoulder,Paul Anka,adult standards,2000,116,34,55,-9,10,47,155,75,3,72,False
 Build Me Up Buttercup,The Foundations,brill building pop,1968,134,51,66,-7,28,85,178,31,3,72,False
 My Way,Frank Sinatra,adult standards,1969,75,38,40,-7,12,23,277,70,3,72,False
 Surfin' U.S.A. - Remastered,The Beach Boys,baroque pop,1963,159,85,55,-6,11,97,149,66,4,71,False
@@ -96,7 +83,6 @@ Heart Full of Soul,The Yardbirds,album rock,2002,141,67,49,-10,5,70,148,23,4,62,
 Gloria - Stereo Version,Them,blues rock,2015,129,70,64,-10,10,72,157,40,5,62,False
 It Takes Two,Marvin Gaye,classic soul,1966,151,48,52,-11,8,81,178,21,5,62,False
 This Will Be Our Year,The Zombies,art rock,1968,98,42,54,-7,19,54,128,63,3,61,False
-Take Good Care Of My Baby - 1990 Remastered,Bobby Vee,adult standards,2011,82,43,49,-12,12,66,151,70,6,60,False
 Hey! Baby - Remastered,Bruce Channel,rock-and-roll,2017,64,62,52,-6,27,64,144,36,4,60,False
 Comment te dire adieu - It Hurts to Say Goodbye,Françoise Hardy,chanson,2005,124,45,73,-12,11,84,146,20,6,59,False
 Rhythm of the Rain,The Cascades,adult standards,1963,117,66,66,-8,14,67,146,63,4,59,False
@@ -315,7 +301,6 @@ Heaven Is a Place on Earth,Belinda Carlisle,dance pop,2013,123,85,64,-8,5,79,247
 I Want To Break Free - Remastered 2011,Queen,glam rock,1984,109,41,88,-11,12,78,199,8,4,70,False
 Arthur's Theme (Best That You Can Do),Christopher Cross,adult standards,1981,137,52,53,-11,18,52,234,17,4,70,False
 Carrie,Europe,album rock,1986,137,49,46,-7,36,14,272,11,3,70,False
-We Are The World,U.S.A. For Africa,,1985,73,45,53,-15,7,29,427,19,4,69,False
 Stuck On You,Lionel Richie,adult standards,1983,132,32,51,-16,9,25,192,62,3,69,False
 Hurts So Good,John Mellencamp,album rock,1982,125,74,79,-5,11,97,219,4,4,69,False
 How Am I Supposed to Live Without You,Michael Bolton,adult standards,1989,140,44,54,-12,11,23,256,19,3,69,False
@@ -328,7 +313,6 @@ St. Elmos Fire (Man in Motion),John Parr,album rock,1985,111,60,61,-11,22,47,252
 One More Night - 2016 Remaster,Phil Collins,mellow gold,1985,136,44,53,-9,10,34,289,79,3,68,False
 Come On Eileen,Dexys Midnight Runners,bow pop,2009,107,87,41,-4,8,82,206,20,9,68,False
 Where Do Broken Hearts Go,Whitney Houston,dance pop,1987,62,39,46,-12,7,25,278,63,3,67,False
-Guilty (feat. Barry Gibb),Barbra Streisand,adult standards,1980,151,43,63,-16,11,95,264,23,4,67,False
 Brother Louie,Modern Talking,eurodance,1986,109,84,78,-9,14,83,223,40,5,67,False
 Running Up That Hill (A Deal With God),Kate Bush,art pop,1985,108,55,63,-13,6,20,299,72,6,67,False
 End Of The Line,Traveling Wilburys,album rock,1988,167,84,58,-7,6,93,210,16,5,67,False
@@ -436,8 +420,6 @@ Juicy - 2007 Remaster,The Notorious B.I.G.,east coast hip hop,2007,96,82,87,-5,1
 Mysterious Girl - Radio Edit,Peter Andre,europop,2004,172,82,66,-6,30,86,217,14,21,62,False
 It's Gonna Be Me,*NSYNC,boy band,2000,165,87,64,-5,6,88,191,5,8,62,False
 I Have Nothing - Film Version,Whitney Houston,dance pop,2017,153,45,49,-9,9,17,296,76,3,61,False
-I Promised Myself,Nick Kamen,,1990,128,80,58,-12,3,69,241,0,3,61,False
-You,Ten Sharp,,1991,174,90,41,-8,19,67,273,43,3,61,False
 Relight My Fire (feat. Lulu),Take That,boy band,1993,123,94,65,-7,10,93,252,4,5,61,False
 Get A Way,Maxx,bubblegum dance,1994,133,86,85,-10,5,60,227,3,4,60,False
 More And More - Single Version,Captain Hollywood Project,bubblegum dance,1993,126,85,66,-12,9,71,254,23,3,60,False
@@ -456,7 +438,6 @@ Hold On My Heart - 2007 Digital Remaster,Genesis,album rock,1991,172,36,46,-13,7
 Real Real Gone,Van Morrison,classic rock,1990,142,85,70,-7,19,95,221,38,3,56,False
 King Of My Castle - Roy Malone's King Mix,Wamdue Project,disco house,2009,125,54,87,-9,6,76,299,4,8,55,False
 Be With You,Enrique Iglesias,dance pop,1999,122,87,68,-5,5,54,219,4,3,55,False
-Ain't That Just the Way,Lutricia McNeal,,1996,174,65,74,-9,19,77,215,6,22,55,False
 Have You Ever - Radio Edit,Brandy,dance pop,2005,134,48,68,-7,30,23,215,60,4,54,False
 Gangsta's Paradise,Coolio,g funk,1995,80,63,64,-6,40,42,242,4,5,54,False
 Show Me Love,Robin S,disco house,2017,120,72,82,-6,8,56,254,1,13,53,False
@@ -614,7 +595,6 @@ Give Me Everything,Pitbull,dance pop,2011,129,94,67,-3,30,53,252,19,16,78,False
 Waiting For Love,Avicii,big room,2015,128,74,58,-4,20,61,231,31,5,78,False
 Stay,Zedd,complextro,2017,102,62,69,-5,12,54,210,25,6,78,False
 It Ain't Me (with Selena Gomez),Kygo,edm,2017,100,53,64,-7,9,52,221,12,7,78,False
-Hall of Fame,The Script,celtic rock,2012,85,87,42,-4,12,63,203,7,6,78,False
 Payphone,Maroon 5,pop,2012,110,75,74,-5,29,55,231,2,4,78,False
 PILLOWTALK,ZAYN,dance pop,2016,125,70,58,-4,9,44,203,12,5,78,False
 All I Want,Kodaline,irish pop,2013,86,41,21,-10,8,16,306,17,4,78,False
@@ -672,7 +652,6 @@ TiK ToK,Kesha,dance pop,2010,120,84,76,-3,29,71,200,10,14,80,False
 Bad Romance,Lady Gaga,dance pop,2010,119,92,70,-4,8,71,295,0,4,79,False
 Just the Way You Are,Bruno Mars,pop,2010,109,84,64,-5,9,43,221,2,4,78,False
 Baby,Justin Bieber,canadian pop,2010,65,86,73,-5,11,54,214,4,14,77,False
-Dynamite,Taio Cruz,dance pop,2010,120,78,75,-4,4,82,203,0,9,77,False
 Secrets,OneRepublic,dance pop,2010,148,76,52,-6,12,38,225,7,4,77,False
 Empire State of Mind (Part II) Broken Down,Alicia Keys,hip pop,2010,93,37,48,-8,12,14,216,74,3,76,False
 Only Girl (In The World),Rihanna,barbadian pop,2010,126,72,79,-4,7,61,235,13,4,73,False
